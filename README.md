@@ -1,27 +1,36 @@
 # Decision-Making Data Visualizations
 
-Project for the Science and Engineering Apprenticeship Program (SEAP), offered by the U.S. Naval Research Laboratory (NRL). Summer 2022
+Project completed through the Science and Engineering Apprenticeship Program (SEAP) at the U.S. Naval Research Laboratory (NRL) in Summer 2022.
 
-Conducted the research under [Dr. Mark A. Livingston](https://scholar.google.com/citations?user=PuuyAu0AAAAJ&hl=en)
+Conducted under [Dr. Mark A. Livingston](https://scholar.google.com/citations?user=PuuyAu0AAAAJ&hl=en).
 
-# Overview 
+## Overview
 
-The project explored how high-dimensional gameplay decision data could be visualized to better understand how cognitive traits may influence decision-making, especially when considering alternatives and uncertainty.
+This project explored how high-dimensional gameplay decision data could be organized and visualized to make patterns in sequential decision-making easier to understand.
+
+The work focused on creating and transforming gameplay-style datasets, generating controlled synthetic decision data, and comparing visualization methods for showing how choices change across a sequence. The main techniques explored were parallel coordinates, parallel sets / parallel categories, and stream graphs.
 
 ## What I Did
 
-- Created and modified datasets representing sequences of decisions from gameplay data
-- Processed and organized data using Python and Pandas
+- Created and modified datasets representing sequences of gameplay decisions
+- Processed, cleaned, filtered, and reshaped data using Python and Pandas
 - Generated synthetic decision data with controlled probability distributions
-- Researched visualization methods for high-dimensional decision data
-- Built and evaluated visualizations using parallel sets, parallel coordinates, and stream graphs
-- Used Plotly and Matplotlib to explore relationships between decisions across different scenarios
-- Compared different visual representations to determine which best exposed decision patterns and potential cognitive biases
+- Worked with both small collected gameplay datasets and larger external datasets
+- Built interactive visualizations with Plotly and static visualizations with Matplotlib
+- Compared parallel coordinates, parallel sets / parallel categories, stream graphs, scatter plots, and bar charts
+- Used filtering and scenario selection to make large decision datasets easier to interpret
+- Tested whether known changes in decision probabilities were visible in the resulting plots
+
+## Main Result
+
+Parallel sets / Plotly parallel categories were the most useful visualization for discrete decision sequences. They made it possible to see how frequently choices occurred, how choices connected across multiple stages, and how filtering to a specific scenario made large datasets easier to interpret.
+
+Controlled grid experiments also showed that increasing the probability of a specific action produced visibly wider bands in the parallel-set visualization.
 
 ## Tools
 
 Python, Pandas, Plotly, Matplotlib, Jupyter Notebook
 
-## Files
+## Running the Notebooks
 
-I have attached the Juypter notebooks that I used throughout the project. 
+The project was developed in Jupyter Notebook using Python. Most notebooks expect their associated CSV files to be available in the same project directory or referenced subdirectory.
