@@ -34,3 +34,5 @@ Python, Pandas, Plotly, Matplotlib, Jupyter Notebook
 ## Running the Notebooks
 
 The project was developed in Jupyter Notebook using Python. Most notebooks expect their associated CSV files to be available in the same project directory or referenced subdirectory.
+
+The files are unorganized. With the help of Codex, I was able to summarize the files in a 'files.md' to show the progression of research.
