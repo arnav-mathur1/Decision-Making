@@ -1,0 +1,16 @@
+ID,Direction,Time,HealthStatus
+127,west,8,75
+142,southwest,7,90
+141,west,6,95
+140,west,9,85
+156,south,7,90
+172,south,8,75
+189,southeast,8,95
+188,west,6,80
+203,southwest,9,90
+202,west,9,90
+217,southwest,7,75
+202,northeast,7,95
+217,southwest,7,75
+216,west,9,95
+215,west,5,95
