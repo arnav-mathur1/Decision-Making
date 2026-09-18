@@ -1,6 +1,6 @@
 # Decision-Making Data Visualizations
 
-Project for the Science and Engineering Apprenticeship Program (SEAP), offered by the U.S. Naval Research Laboratory (NRL).
+Project for the Science and Engineering Apprenticeship Program (SEAP), offered by the U.S. Naval Research Laboratory (NRL). Summer 2022
 
 Conducted the research under [Dr. Mark A. Livingston](https://scholar.google.com/citations?user=PuuyAu0AAAAJ&hl=en)
 
@@ -21,3 +21,7 @@ The project explored how high-dimensional gameplay decision data could be visual
 ## Tools
 
 Python, Pandas, Plotly, Matplotlib, Jupyter Notebook
+
+## Files
+
+I have attached the Juypter notebooks that I used throughout the project. 
