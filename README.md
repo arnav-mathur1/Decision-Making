@@ -36,3 +36,9 @@ Python, Pandas, Plotly, Matplotlib, Jupyter Notebook
 The project was developed in Jupyter Notebook using Python. Most notebooks expect their associated CSV files to be available in the same project directory or referenced subdirectory.
 
 The files are unorganized. With the help of Codex, I was able to summarize the files in a 'files.md' to show the progression of research.
+
+## Follow-Up
+
+As a follow-up to working at SEAP through the NRL, I participated in the [Naval Horizons Essay Contest](https://www.navalhorizons.us/) twice, which is sponsored by Naval STEM for the Department of the Navy.
+
+I [wrote](https://docs.google.com/document/d/1tZ2bl0REcZsCtO7UHAyz4p-rhpobsiFeAVmVeFt5__w/edit?usp=sharing) about my interest in AI/ML for intelligent autonomous systems through predictive modeling and digital twins. Even though I wrote the essays almost 4 years ago, the issues still interest me today.
